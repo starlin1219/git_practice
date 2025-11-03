@@ -1,0 +1,29 @@
+body {
+  color: #232a31;
+  font-size: 18px;
+  line-height: 1.8;
+}
+
+.text-gray {
+  color: #6e7780;
+}
+
+.fs-14 {
+  font-size: 14px;
+}
+.fs-18 {
+  font-size: 18px;
+}
+.fs-36 {
+  font-size: 36px;
+}
+
+.mb-0_5 {
+  margin-bottom: 2px;
+}
+.mb-14 {
+  margin-bottom: 14px;
+}
+.mb-20 {
+  margin-bottom: 20px;
+}
