@@ -3,6 +3,9 @@ body {
   font-size: 18px;
   line-height: 1.8;
 }
+a {
+  text-decoration: none;
+}
 
 .text-gray {
   color: #6e7780;
